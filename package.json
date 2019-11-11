@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "lodash": "~>4.17.5",
+    "lodash": "~>4.17.13",
     "mingo": "^2.2.2",
     "moment": "^2.22.2",
     "store": "^2.0.12",
