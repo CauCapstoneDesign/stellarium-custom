@@ -13,7 +13,7 @@
     "babel-polyfill": "^6.26.0",
     "lodash": "~>4.17.5",
     "mingo": "^2.2.2",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "store": "^2.0.12",
     "swagger-client": "^3.8.11",
     "vue": "^2.5.16",
